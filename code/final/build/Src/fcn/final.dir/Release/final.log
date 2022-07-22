@@ -1,0 +1,25 @@
+﻿  Building NVCC (Device) object Src/fcn/CMakeFiles/final.dir/Release/final_generated_final.cu.obj
+  final.cu
+H:/ece 277/final/Src/fcn/final.cu(311): warning : conversion from a string literal to "char *" is deprecated
+  
+H:/ece 277/final/Src/fcn/final.cu(312): warning : conversion from a string literal to "char *" is deprecated
+  
+H:/ece 277/final/Src/fcn/final.cu(319): warning : conversion from a string literal to "char *" is deprecated
+  
+H:/ece 277/final/Src/fcn/final.cu(320): warning : conversion from a string literal to "char *" is deprecated
+  
+H:/ece 277/final/Src/fcn/final.cu(311): warning : conversion from a string literal to "char *" is deprecated
+  
+H:/ece 277/final/Src/fcn/final.cu(312): warning : conversion from a string literal to "char *" is deprecated
+  
+H:/ece 277/final/Src/fcn/final.cu(319): warning : conversion from a string literal to "char *" is deprecated
+  
+H:/ece 277/final/Src/fcn/final.cu(320): warning : conversion from a string literal to "char *" is deprecated
+  
+  final.cu
+H:/ece 277/final/Src/fcn/final.cu(307): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Building Custom Rule H:/ece 277/final/Src/fcn/CMakeLists.txt
+  Building NVCC intermediate link file Src/fcn/CMakeFiles/final.dir/Release/final_intermediate_link.obj
+  final_generated_final.cu.obj
+     Creating library H:/ece 277/final/build/Src/fcn/Release/final.lib and object H:/ece 277/final/build/Src/fcn/Release/final.exp
+  final.vcxproj -> H:\ece 277\final\build\Src\fcn\Release\final.exe

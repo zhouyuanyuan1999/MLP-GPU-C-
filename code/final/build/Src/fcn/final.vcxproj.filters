@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="H:\ece 277\final\Src\fcn\final.cu">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="H:\ece 277\final\build\CMakeFiles\4262fc82278958d959782fd3f242fb31\final_intermediate_link.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="H:\ece 277\final\Src\fcn\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="H:\ece 277\final\build\Src\fcn\CMakeFiles\final.dir\$(Configuration)\final_generated_final.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="H:\ece 277\final\build\Src\fcn\CMakeFiles\final.dir\$(Configuration)\final_intermediate_link.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{8E97722C-FD38-3190-89E0-DE0BAE26D27A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object Files">
+      <UniqueIdentifier>{6B82BCC6-6B19-3B22-B793-230B7B6AD240}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0CF54529-AC12-372A-8373-B3E495E06B76}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

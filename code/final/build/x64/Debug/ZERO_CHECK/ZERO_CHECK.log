@@ -1,0 +1,13 @@
+﻿  Checking Build System
+  CMake is re-running because H:/ece 277/final/build/Src/fcn/CMakeFiles/generate.stamp is out-of-date.
+    the file 'H:/ece 277/final/build/Src/fcn/CMakeFiles/final.dir/final_generated_final.cu.obj.depend'
+    is newer than 'H:/ece 277/final/build/Src/fcn/CMakeFiles/generate.stamp.depend'
+    result='-1'
+  -- Selecting Windows SDK version 10.0.16299.0 to target Windows 10.0.19042.
+  Windows
+  64
+  -- Found NVTX: C:/Program Files/NVIDIA Corporation/NvToolsExt/include
+  -- Found FREEGLUT: C:/ProgramData/NVIDIA Corporation/CUDA Samples/v10.1/common/lib/x64/freeglut.lib
+  -- Configuring done
+  -- Generating done
+  -- Build files have been written to: H:/ece 277/final/build
